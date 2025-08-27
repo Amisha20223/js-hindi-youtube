@@ -3,6 +3,7 @@ let accountEmail = "hitesh@google.com"
 var accountPassword = "12345"
 accountCity = "Jaipur"
 let accountState;
+// variable jo define ni hua that will be undefined in the console and decalre hua hai lekin 
 
 // accountId = 2 // not allowed
 
