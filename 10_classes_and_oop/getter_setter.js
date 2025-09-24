@@ -14,6 +14,7 @@ class User {
     get password(){
         return `${this._password}hitesh`
     }
+    //same as java
 
     set password(value){
         this._password = value
